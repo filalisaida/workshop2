@@ -1,0 +1,80 @@
+/*header*/
+  
+.header nav ol{
+    flex-direction: column;
+    text-align: center;
+    padding: 0rem 0.25rem; 
+}
+
+.header nav ol li {
+    float: none;
+  }
+  .header nav ol li a {
+    padding: 0px; 
+    padding-bottom: 1rem;
+   
+ }
+ /*content*/
+ .vp-content {
+    padding-top: 5rem;
+    
+  }
+  .vp-content h1{
+     
+        font-size:2rem;
+        color: white;
+        margin-bottom: 2rem;
+        padding: 1.5rem 0.80rem;
+        
+      }
+      .form input {
+
+        border: 0px;
+        padding: 1rem;
+        background: #333;
+        border-bottom: 2px solid #555;
+        color: white;
+        font-size: 23px;
+        margin-bottom: 1rem;
+        outline: 0;
+      } 
+      .container-offre{
+        float: none;
+        width: 100%;
+        margin-bottom: 2rem;
+        padding: 20px;
+      
+      }
+
+  .offer-elem-img
+    {
+        float: none;
+        width: 80%;
+        margin-bottom: 3rem;
+        display: block;
+        margin: auto;
+    }
+
+
+    .vp-logo{
+        text-align: center;
+        padding: 0%;
+        float: 0;
+      }
+      .contact{
+        padding: 50px 0px;
+      }
+      .container {
+        max-width: 1000px;
+      
+      height: 300px; ;
+        display: block;
+        margin: auto;
+      }
+      .contact{
+        padding: 50px 0px;
+      }
+      .offer-elem-text {
+        padding: 2rem;
+        text-align: center;
+      }
